@@ -3,7 +3,7 @@ Tolimesnins darbas 2 tobulinimas
 
 ---
 
-# darbas-2
+# darbas-2.0
 
 *Kompiuteris*
 
